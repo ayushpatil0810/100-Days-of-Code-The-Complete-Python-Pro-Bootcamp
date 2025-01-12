@@ -1,4 +1,4 @@
-# 100-Days-of-Code-The-Complete-Python-Pro-Bootcamp
+# 100 Days of Code : The Complete Python Pro Bootcamp
 Projects made during 100 Days of Code: The Complete Python Pro Bootcamp
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushpatil0810&label=Profile%20views&color=0e75b6&style=flat" alt="ayushpatil0810" /> </p>
