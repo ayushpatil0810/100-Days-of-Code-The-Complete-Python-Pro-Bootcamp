@@ -1,3 +1,4 @@
+#Day 24
 PLACEHOLDER = "[name]"
 
 with open("./Input/Names/invited_names.txt") as names_file:
