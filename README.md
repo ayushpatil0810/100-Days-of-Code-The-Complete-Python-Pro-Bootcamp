@@ -6,6 +6,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ayushpatil0810/count.svg?"  />
+</div>
+
+###
+
 <h2 align="left">Languages and Tools Used :</h2>
 
 ###
